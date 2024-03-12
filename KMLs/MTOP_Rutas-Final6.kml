@@ -1486,10 +1486,10 @@
 	<description><![CDATA[
     <b>Obra en ruta</b>
     <br/>Rehabilitación de ruta n. ° 5 en pasaje por Planta Urbana de Durazno del km 182 al 188 - 2021    <br/><br/>
-    <img
+    <div><img
 	  style="max-width: 320px; margin-top: 15px;"
       src="https://github.com/srosano-gxc/AMEPP/raw/4a1aed7c01fdab5faa4ee1b4acf565567fdf693a/Imagenes/fgr_23.jpg"
-      alt="Obra en ruta"/>
+      alt="Obra en ruta"/><div>
 	  <br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
 	<Style><LineStyle><color>ff0000ff</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
