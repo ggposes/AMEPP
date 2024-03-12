@@ -1485,13 +1485,12 @@
   <Placemark>
 	<description><![CDATA[
     <b>Obra en ruta</b>
-	<br/>Rehabilitación de ruta n. ° 5 en pasaje por Planta Urbana de Durazno del km 182 al 188, 2021    <br/><br/>
+    <br/>Rehabilitación de ruta n. ° 5 en pasaje por Planta Urbana de Durazno del km 182 al 188, 2021    <br/><br/>
     <img
 	  style="max-width: 320px; margin-top: 15px;"
       src="https://github.com/srosano-gxc/AMEPP/raw/4a1aed7c01fdab5faa4ee1b4acf565567fdf693a/Imagenes/fgr_23.jpg"
       alt="Obra en ruta"/>
-	  <br/><i>La imagen puede ser ilustrativa<i><br/>
-	 ]]></description>
+	  <br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
 	<Style><LineStyle><color>ff0000ff</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="DENOMINACI">REHABILITACION RUTA 5 PASAJE PLANTA URBANA DURAZNO</SimpleData>
@@ -1527,13 +1526,13 @@
   <Placemark>
 	<description><![CDATA[
     <b>Obra en ruta</b>
-    <br/>Rehabilitación de ruta n. ° 5 en pasaje por Planta Urbana de Durazno del kilómetro 182 al 188 - 2021    <br/><br/>
+    <br/>Rehabilitación de ruta n. ° 5 en pasaje por Planta Urbana de Durazno del km 182 al 188, 2021    <br/><br/>
     <img
 	  style="max-width: 320px; margin-top: 15px;"
       src="https://github.com/srosano-gxc/AMEPP/raw/4a1aed7c01fdab5faa4ee1b4acf565567fdf693a/Imagenes/fgr_23.jpg"
       alt="Obra en ruta"
 />]]></description>
-	<Style><LineStyle><color>FFD0BD93</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ffff0000</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="DENOMINACI">REHABILITACION RUTA 5 PASAJE PLANTA URBANA DURAZNO</SimpleData>
 		<SimpleData name="RUTA">5</SimpleData>
