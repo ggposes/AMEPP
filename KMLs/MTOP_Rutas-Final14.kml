@@ -1154,7 +1154,7 @@
       alt="Obra"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><IconStyle><Icon><href>hhttps://github.com/ggposes/AMEPP/raw/23fdb32cc74fe45c5498636d4b1074092f4d81d0/Categorias/Iconos_Puente-01.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/ggposes/AMEPP/raw/23fdb32cc74fe45c5498636d4b1074092f4d81d0/Categorias/Iconos_Puente-01.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="DENOMINACI">PUENTE Y ACCESOS SOBRE RÍO CEBOLLATÍ</SimpleData>
 		<SimpleData name="RUTA">15</SimpleData>
