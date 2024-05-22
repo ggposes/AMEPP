@@ -12198,8 +12198,8 @@
           <gx:strokeMode>dash</gx:strokeMode>
           <gx:strokeWidth>4</gx:strokeWidth>
           <gx:strokeColor>ff0000ff</gx:strokeColor> <!-- Blue color for the line -->
-          <gx:strokeOpacity>1</gx:strokeOpacity>
-          <gx:pattern>10</gx:pattern> <!-- Specify the dash pattern -->
+          <gx:strokeOpacity>2</gx:strokeOpacity>
+          <gx:pattern>100</gx:pattern> <!-- Specify the dash pattern -->
         </gx:SimpleLineStyle>
       </LineStyle>
 	</Style>
