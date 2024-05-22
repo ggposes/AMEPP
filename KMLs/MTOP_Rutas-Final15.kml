@@ -12193,7 +12193,7 @@
       alt="Ferrocarril"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<styleUrl>#LineStyle00</styleUrl>
+	<Style><LineStyle><color>ff0000ff</color><width>10</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="Capa">Obras Lineales</SimpleData>
 	</SchemaData></ExtendedData>
