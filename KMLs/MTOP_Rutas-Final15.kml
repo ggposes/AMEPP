@@ -12193,7 +12193,16 @@
       alt="Ferrocarril"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle><color>ff0000ff</color><width>6</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle>
+        <gx:SimpleLineStyle>
+          <gx:strokeMode>dash</gx:strokeMode>
+          <gx:strokeWidth>4</gx:strokeWidth>
+          <gx:strokeColor>ff0000ff</gx:strokeColor> <!-- Blue color for the line -->
+          <gx:strokeOpacity>1</gx:strokeOpacity>
+          <gx:pattern>10</gx:pattern> <!-- Specify the dash pattern -->
+        </gx:SimpleLineStyle>
+      </LineStyle>
+	</Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="Capa">Obras Lineales</SimpleData>
 	</SchemaData></ExtendedData>
