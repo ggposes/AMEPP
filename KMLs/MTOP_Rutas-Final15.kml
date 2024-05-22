@@ -12193,15 +12193,7 @@
       alt="Ferrocarril"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle>
-        <gx:SimpleLineStyle>
-          <gx:strokeMode>dot</gx:strokeMode>
-          <gx:strokeWidth>4</gx:strokeWidth>
-          <gx:strokeColor>ff0000ff</gx:strokeColor> <!-- Blue color for the line -->
-          <gx:strokeOpacity>1</gx:strokeOpacity>
-        </gx:SimpleLineStyle>
-      </LineStyle>
-	</Style>
+	<styleUrl>#LineStyle00</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="Capa">Obras Lineales</SimpleData>
 	</SchemaData></ExtendedData>
