@@ -1725,7 +1725,7 @@
       alt="Ferrocarril"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle><color>ff800080</color><width>2</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FFFF007F</color><width>2</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="Capa">Obras Lineales</SimpleData>
 	</SchemaData></ExtendedData>
