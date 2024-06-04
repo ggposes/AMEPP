@@ -488,84 +488,7 @@
   </Placemark>
 </Folder>
 <Folder><name>Obras_Puntuales</name>
-  <Placemark>
-	<description><![CDATA[
-    <b>Ferrocarril</b>
-    <br/>Inauguración de tramo de Ferrocarril Central desde puerto de Montevideo a Pueblo Centenario, 2024<br/>
-    <div><img
-	  style="max-width: 320px; margin-top: 15px;"
-      src="https://github.com/ggposes/AMEPP/raw/db956436050fc7e90641f86ea2ab5eaeea0724e7/Imagenes/FerrocarrilCentral_82dbe5ef-729c-4c5b-838e-72b26da477ec.jpeg"
-      alt="Ferrocarril"/>
-	<div>
-	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><IconStyle><Icon><href>https://github.com/ggposes/AMEPP/raw/a560f3e100cef48e20e85bec3148c3e241b291d2/Categorias/Iconos_Ferrocarril.png</href></Icon></IconStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
-		<SimpleData name="DENOMINACI"></SimpleData>
-		<SimpleData name="RUTA"></SimpleData>
-		<SimpleData name="Prog_inici"></SimpleData>
-		<SimpleData name="FINANCIACI"></SimpleData>
-		<SimpleData name="ESTADO"></SimpleData>
-		<SimpleData name="ID_Obras"></SimpleData>
-		<SimpleData name="GESTION"></SimpleData>
-		<SimpleData name="AÑO_inici"></SimpleData>
-		<SimpleData name="AÑO_fin"></SimpleData>
-		<SimpleData name="ID_Interno"></SimpleData>
-		<SimpleData name="iD"></SimpleData>
-		<SimpleData name="Categoría"></SimpleData>
-		<SimpleData name="Foto con Personas"></SimpleData>
-		<SimpleData name="Foto real"></SimpleData>
-		<SimpleData name="Ruta_2"></SimpleData>
-		<SimpleData name="DENOMINACI_2"></SimpleData>
-		<SimpleData name="FINANCIACI_2"></SimpleData>
-		<SimpleData name="ESTADO_2"></SimpleData>
-		<SimpleData name="ID_Obras_2"></SimpleData>
-		<SimpleData name="GESTION_2"></SimpleData>
-		<SimpleData name="AÑO DE INICIO"></SimpleData>
-		<SimpleData name="AÑO DE FIN"></SimpleData>
-		<SimpleData name="ID_Interno_2"></SimpleData>
-		<SimpleData name="Capa">Obras Puntuales</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-56.50916666,-32.8047222</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<description><![CDATA[
-    <b>Ferrocarril</b>
-    <br/>Inauguración de tramo de Ferrocarril Central desde puerto de Montevideo a Pueblo Centenario, 2024<br/>
-    <div><img
-	  style="max-width: 320px; margin-top: 15px;"
-      src="https://github.com/ggposes/AMEPP/raw/db956436050fc7e90641f86ea2ab5eaeea0724e7/Imagenes/FerrocarrilCentral_82dbe5ef-729c-4c5b-838e-72b26da477ec.jpeg"
-      alt="Ferrocarril"/>
-	<div>
-	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><IconStyle><Icon><href>https://github.com/ggposes/AMEPP/raw/a560f3e100cef48e20e85bec3148c3e241b291d2/Categorias/Iconos_Ferrocarril.png</href></Icon></IconStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
-		<SimpleData name="DENOMINACI"></SimpleData>
-		<SimpleData name="RUTA"></SimpleData>
-		<SimpleData name="Prog_inici"></SimpleData>
-		<SimpleData name="FINANCIACI"></SimpleData>
-		<SimpleData name="ESTADO"></SimpleData>
-		<SimpleData name="ID_Obras"></SimpleData>
-		<SimpleData name="GESTION"></SimpleData>
-		<SimpleData name="AÑO_inici"></SimpleData>
-		<SimpleData name="AÑO_fin"></SimpleData>
-		<SimpleData name="ID_Interno"></SimpleData>
-		<SimpleData name="iD"></SimpleData>
-		<SimpleData name="Categoría"></SimpleData>
-		<SimpleData name="Foto con Personas"></SimpleData>
-		<SimpleData name="Foto real"></SimpleData>
-		<SimpleData name="Ruta_2"></SimpleData>
-		<SimpleData name="DENOMINACI_2"></SimpleData>
-		<SimpleData name="FINANCIACI_2"></SimpleData>
-		<SimpleData name="ESTADO_2"></SimpleData>
-		<SimpleData name="ID_Obras_2"></SimpleData>
-		<SimpleData name="GESTION_2"></SimpleData>
-		<SimpleData name="AÑO DE INICIO"></SimpleData>
-		<SimpleData name="AÑO DE FIN"></SimpleData>
-		<SimpleData name="ID_Interno_2"></SimpleData>
-		<SimpleData name="Capa">Obras Puntuales</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-56.1947222,-34.89388892</coordinates></Point>
-  </Placemark>
+  
   <Placemark>
 	<description><![CDATA[
     <b>Obra</b>
@@ -1790,6 +1713,86 @@
 		<SimpleData name="Capa">Obras Puntuales</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-55.293,-32.55842</coordinates></Point>
+  </Placemark>
+  
+  
+  <Placemark>
+	<description><![CDATA[
+    <b>Ferrocarril</b>
+    <br/>Inauguración de tramo de Ferrocarril Central desde puerto de Montevideo a Pueblo Centenario, 2024<br/>
+    <div><img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/ggposes/AMEPP/raw/db956436050fc7e90641f86ea2ab5eaeea0724e7/Imagenes/FerrocarrilCentral_82dbe5ef-729c-4c5b-838e-72b26da477ec.jpeg"
+      alt="Ferrocarril"/>
+	<div>
+	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
+	<Style><IconStyle><Icon><href>https://github.com/ggposes/AMEPP/raw/a560f3e100cef48e20e85bec3148c3e241b291d2/Categorias/Iconos_Ferrocarril.png</href></Icon></IconStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
+		<SimpleData name="DENOMINACI"></SimpleData>
+		<SimpleData name="RUTA"></SimpleData>
+		<SimpleData name="Prog_inici"></SimpleData>
+		<SimpleData name="FINANCIACI"></SimpleData>
+		<SimpleData name="ESTADO"></SimpleData>
+		<SimpleData name="ID_Obras"></SimpleData>
+		<SimpleData name="GESTION"></SimpleData>
+		<SimpleData name="AÑO_inici"></SimpleData>
+		<SimpleData name="AÑO_fin"></SimpleData>
+		<SimpleData name="ID_Interno"></SimpleData>
+		<SimpleData name="iD"></SimpleData>
+		<SimpleData name="Categoría"></SimpleData>
+		<SimpleData name="Foto con Personas"></SimpleData>
+		<SimpleData name="Foto real"></SimpleData>
+		<SimpleData name="Ruta_2"></SimpleData>
+		<SimpleData name="DENOMINACI_2"></SimpleData>
+		<SimpleData name="FINANCIACI_2"></SimpleData>
+		<SimpleData name="ESTADO_2"></SimpleData>
+		<SimpleData name="ID_Obras_2"></SimpleData>
+		<SimpleData name="GESTION_2"></SimpleData>
+		<SimpleData name="AÑO DE INICIO"></SimpleData>
+		<SimpleData name="AÑO DE FIN"></SimpleData>
+		<SimpleData name="ID_Interno_2"></SimpleData>
+		<SimpleData name="Capa">Obras Puntuales</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.50916666,-32.8047222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description><![CDATA[
+    <b>Ferrocarril</b>
+    <br/>Inauguración de tramo de Ferrocarril Central desde puerto de Montevideo a Pueblo Centenario, 2024<br/>
+    <div><img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/ggposes/AMEPP/raw/db956436050fc7e90641f86ea2ab5eaeea0724e7/Imagenes/FerrocarrilCentral_82dbe5ef-729c-4c5b-838e-72b26da477ec.jpeg"
+      alt="Ferrocarril"/>
+	<div>
+	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
+	<Style><IconStyle><Icon><href>https://github.com/ggposes/AMEPP/raw/a560f3e100cef48e20e85bec3148c3e241b291d2/Categorias/Iconos_Ferrocarril.png</href></Icon></IconStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
+		<SimpleData name="DENOMINACI"></SimpleData>
+		<SimpleData name="RUTA"></SimpleData>
+		<SimpleData name="Prog_inici"></SimpleData>
+		<SimpleData name="FINANCIACI"></SimpleData>
+		<SimpleData name="ESTADO"></SimpleData>
+		<SimpleData name="ID_Obras"></SimpleData>
+		<SimpleData name="GESTION"></SimpleData>
+		<SimpleData name="AÑO_inici"></SimpleData>
+		<SimpleData name="AÑO_fin"></SimpleData>
+		<SimpleData name="ID_Interno"></SimpleData>
+		<SimpleData name="iD"></SimpleData>
+		<SimpleData name="Categoría"></SimpleData>
+		<SimpleData name="Foto con Personas"></SimpleData>
+		<SimpleData name="Foto real"></SimpleData>
+		<SimpleData name="Ruta_2"></SimpleData>
+		<SimpleData name="DENOMINACI_2"></SimpleData>
+		<SimpleData name="FINANCIACI_2"></SimpleData>
+		<SimpleData name="ESTADO_2"></SimpleData>
+		<SimpleData name="ID_Obras_2"></SimpleData>
+		<SimpleData name="GESTION_2"></SimpleData>
+		<SimpleData name="AÑO DE INICIO"></SimpleData>
+		<SimpleData name="AÑO DE FIN"></SimpleData>
+		<SimpleData name="ID_Interno_2"></SimpleData>
+		<SimpleData name="Capa">Obras Puntuales</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1947222,-34.89388892</coordinates></Point>
   </Placemark>
 </Folder>
 <Folder><name>Obras_lineales</name>
