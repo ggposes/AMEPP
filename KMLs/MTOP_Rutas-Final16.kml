@@ -12275,7 +12275,7 @@
       alt="Obra en ruta"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle><color>FF0000FF</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FF1CB8FF</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="DENOMINACI"></SimpleData>
 		<SimpleData name="RUTA">81</SimpleData>
@@ -12319,7 +12319,7 @@
       alt="Obra en ruta"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle><color>FFFF0000</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FF1CB8FF</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="DENOMINACI"></SimpleData>
 		<SimpleData name="RUTA">81</SimpleData>
@@ -12363,7 +12363,7 @@
       alt="Obra en ruta"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
-	<Style><LineStyle><color>FF008000</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FF1CB8FF</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_lineales">
 		<SimpleData name="DENOMINACI"></SimpleData>
 		<SimpleData name="RUTA">81</SimpleData>
