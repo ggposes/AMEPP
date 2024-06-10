@@ -1828,7 +1828,7 @@
 		<SimpleData name="ID_Interno_2"></SimpleData>
 		<SimpleData name="Capa">Obras Puntuales</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-56.8781778981833,-32.7059004370183</coordinates></Point>
+      <Point><coordinates>-56.8543861111111,-32.7038639</coordinates></Point>
   </Placemark>
   <Placemark>
 	<description><![CDATA[
@@ -1836,7 +1836,7 @@
     <br/>Nuevo puente en ruta n. ° 20 sobre arroyo Tala, 2024<br/>
     <div><img
 	  style="max-width: 320px; margin-top: 15px;"
-      src="https://github.com/ggposes/AMEPP/blob/b1cea9dece04ff224a511825a9240a40ac3f8bc4/Imagenes/Generica%202.jpg"
+      src="https://github.com/ggposes/AMEPP/raw/b1cea9dece04ff224a511825a9240a40ac3f8bc4/Imagenes/Generica%202.jpg"
       alt="Obra"/>
 	<div>
 	<br/><i>La imagen puede ser ilustrativa<i><br/>]]></description>
@@ -1865,7 +1865,7 @@
 		<SimpleData name="ID_Interno_2"></SimpleData>
 		<SimpleData name="Capa">Obras Puntuales</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-56.8783333333333,-32.7061111</coordinates></Point>
+      <Point><coordinates>-56.8783722222222,-32.7062806</coordinates></Point>
   </Placemark>
   <Placemark>
 	<description><![CDATA[
